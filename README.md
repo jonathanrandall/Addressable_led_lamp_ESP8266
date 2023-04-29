@@ -3,6 +3,10 @@
 
 I make an lamp with addressable WS2812B LEDs and ESP8266 microprocessor. The lamp uses ping pong balls as diffusers. The build is inspired by Bitluni.
 
+YouTube Video: 
+
+https://youtu.be/ymNG-xeTA4I
+
 Github repo: https://github.com/jonathanrandall/Addressable_led_lamp_ESP8266
 
 Bitluni’s project:
